@@ -21,23 +21,28 @@ img {
 .navbar {
   background-color: #3285ef;
   color: #f6e53e;
+  font-family: "Open Sans";
   border-color: #3285ef;
 }
 
 .navbar-inverse .navbar-nav > li > a {
   color: #f6e53e;
+  font-family: "Open Sans";
 }
 
 .well {
   background-color: #3285ef;
   color: white;
+  font-family: "Open Sans";
 }
 
 .well-header {
   text-align: center;
   color: #f6e53e;
+  font-family: "Open Sans";
 }
 
 .well-link {
   color: white;
+  font-family: "Open Sans";
 }
